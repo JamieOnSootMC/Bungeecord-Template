@@ -1,0 +1,4 @@
+name: ExamplePlugin
+version: '${project.version}'
+main: net.sootmc.exampleplugin.ExamplePlugin
+description: A template repo for making a Bungeecord Plugin
